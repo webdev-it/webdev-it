@@ -60,9 +60,4 @@
   </a>
 </p>
 
----
 
-### 📊 Моя GitHub статистика
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev-it&show_icons=true&theme=tokyonight)](https://github.com/webdev-it)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-it&layout=compact&theme=tokyonight)](https://github.com/webdev-it)
