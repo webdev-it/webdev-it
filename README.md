@@ -44,7 +44,7 @@
 
 ---
 
-### 📬 Связаться со мной
+
 
 ### 📬 Связаться со мной
 
@@ -63,7 +63,6 @@
 ---
 
 ### 📊 Моя GitHub статистика
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=webdev-it&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-it&layout=compact&theme=tokyonight" alt="Top Langs" height="150">
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev-it&show_icons=true&theme=tokyonight)](https://github.com/webdev-it)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev-it&layout=compact&theme=tokyonight)](https://github.com/webdev-it)
