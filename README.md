@@ -46,12 +46,17 @@
 
 ### 📬 Связаться со мной
 
+### 📬 Связаться со мной
+
 <p align="left">
   <a href="mailto:abdumalikabdumalikov72@gmail.com">
     <img src="https://img.shields.io/badge/Email-abdumalikabdumalikov72@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="tel:+992917690906">
-    <img src="https://img.shields.io/badge/Телефон-+992%2091%20769%2009%2006-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Телефон">
+  <a href="WhatsApp:+992917690906">
+    <img src="https://img.shields.io/badge/Whatsapp-+992%2091%20769%2009%2006-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Телефон">
+  </a>
+  <a href="https://t.me/abdumalikovvvvvvv">
+    <img src="https://img.shields.io/badge/Telegram-@abdumalikovvvvvvv-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
